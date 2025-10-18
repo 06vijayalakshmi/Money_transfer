@@ -1,5 +1,5 @@
 # Money_transfer
-A Online Transaction website with complete transaction features.
+A Online Transaction website with complete transaction features using HTML, CSS, JavaScript, PHP and SQL database.
 
 # Features:
 
