@@ -1,7 +1,7 @@
 # Money_transfer
 A Online Transaction website with complete transaction features.
 
-#Features:
+# Features:
 
 * Secure Login System with session management
 * Dashboard with account overview and recent transactions
@@ -13,7 +13,7 @@ A Online Transaction website with complete transaction features.
 
 The system is simple, secure, and provides all the essential features for a money transfer application!
 
-#SetUp Instructions:
+# SetUp Instructions:
 
 1.Database Setup:
  * Create a MySQL database named money_app
